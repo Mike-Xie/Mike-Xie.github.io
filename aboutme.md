@@ -4,12 +4,12 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Bulleted List:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+ - item one
+ - item two
+ - item three
 
-What else do you need?
 
 ### my history
 
@@ -18,6 +18,6 @@ To be honest, I'm having some trouble remembering right now, so why don't you ju
 # This is a random Penguin Image
 
 ## Smaller text
-!(Penguin Image)[https://images.axios.com/2KVFKm3seLEb-6dNRPpysqzUTrw=/0x475:5000x3287/1920x1080/2019/04/25/1556175266452.jpg]
+![Penguin Image](https://images.axios.com/2KVFKm3seLEb-6dNRPpysqzUTrw=/0x475:5000x3287/1920x1080/2019/04/25/1556175266452.jpg)
 
-(Here's a link to the penguin image)[https://images.axios.com/2KVFKm3seLEb-6dNRPpysqzUTrw=/0x475:5000x3287/1920x1080/2019/04/25/1556175266452.jpg]
+[Here's a link to the penguin image](https://images.axios.com/2KVFKm3seLEb-6dNRPpysqzUTrw=/0x475:5000x3287/1920x1080/2019/04/25/1556175266452.jpg)
